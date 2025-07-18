@@ -124,7 +124,7 @@ export default function Index() {
       <SafeAreaView style={styles.container}>
         <View style={styles.navGroup}>
           <Ionicons name="arrow-back" size={25} />
-          <Image source={require('@/assets/images/logo.png')} />
+          <Image source={require('@/assets/images/logo-green.png')} />
         </View>
         <Text style={styles.largeText}>Create your</Text>
         <Text style={styles.largeText}>Account</Text>

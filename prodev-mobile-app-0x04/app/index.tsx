@@ -71,7 +71,7 @@ export default function Index() {
   <SafeAreaView style={{ flex: 1 }}>
    <ImageBackground
    // Set a full-screen background image using ImageBackground with resizeMode=“cover” and ensure the background image covers the entire screen using Dimensions.get(“window”).height
-    source={require("@/assets/images/background-image.png")}
+    source={require("@/assets/images/hero-icon.png")}
     style={styles.background}
     resizeMode="cover"
   >
